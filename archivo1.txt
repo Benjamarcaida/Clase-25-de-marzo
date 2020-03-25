@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hola 2
 primera prueba de git 
+hola, como estas?
+bien por suerte
+vos?
+>>>>>>> 63766dba7c6485dceb38b09a8d50fdb18129c68e
